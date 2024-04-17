@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hameiri" alt="a-hameiri" /></a> </p>
 
-- 🌱 I’m currently learning **Git**
+- 🔭 I’m currently working on **Website development**
+
+- 🌱 I’m currently learning **Git, HTML, CSS and Python**
+
+- ⚡ Fun fact **I'm a chef looking to get out of the kitchen and into IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
