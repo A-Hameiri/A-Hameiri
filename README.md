@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm a chef looking to get out of the kitchen and into IT**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/ariel-hameiri </h3>
 <p align="left">
 </p>
 
